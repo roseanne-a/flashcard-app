@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
+
+body {
+  background-color: #ffdab9;
+}
+
+.header {
+  background-color: #f4978e;
+}
+
+.footer {
+  background-color: #f4978e;
+}
+
+.icon {
+  font-size: 1rem;
+  padding-right: 5px;
+}
+
+.breadcrumb {
+  padding: 5px;
+}

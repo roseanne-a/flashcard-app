@@ -1,0 +1,157 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "Rendering in React!! ok",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation. GOOD!! ok"
+    },
+    {
+      "name": "React Router",
+      "description": "React Router is a collection of navigational components that compose declaratively with your application!!!!",
+      "id": 2
+    },
+    {
+      "name": "/////",
+      "description": "////////",
+      "id": 7
+    },
+    {
+      "name": "g",
+      "description": "g",
+      "id": 8
+    },
+    {
+      "name": "gfh",
+      "description": "fgh",
+      "id": 9
+    },
+    {
+      "name": "3",
+      "description": "3",
+      "id": 10
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "front": "Differentiate between Real DOM and Virtual DOM. NO",
+      "back": "Virtual DOM updates are faster but do not directly update the HTML",
+      "deckId": 1
+    },
+    {
+      "id": 2,
+      "front": "How do you modify the state of a different React component?",
+      "back": "Not at all! State is visible to the component only.",
+      "deckId": 1
+    },
+    {
+      "id": 3,
+      "front": "How do you pass data 'down' to a React child component?",
+      "back": "As properties or props",
+      "deckId": 1
+    },
+    {
+      "front": "What path will match the follow Route?\n<Route>\n  <NotFound />\n</Route>",
+      "back": "All paths. A route with no path matches all URL's",
+      "deckId": 2,
+      "id": 4
+    },
+    {
+      "front": "What does <Switch> do?",
+      "back": "Renders the first matching child <Route> ",
+      "deckId": 2,
+      "id": 5
+    },
+    {
+      "cards": [],
+      "front": "b",
+      "back": "b",
+      "deckId": 1,
+      "id": 7
+    },
+    {
+      "front": "oop",
+      "back": "oop",
+      "deckId": 1,
+      "id": 8
+    },
+    {
+      "front": "a",
+      "back": "a",
+      "deckId": 1,
+      "id": 9
+    },
+    {
+      "front": "aaaaa",
+      "back": "aaaaaa",
+      "deckId": 1,
+      "id": 10
+    },
+    {
+      "front": "z",
+      "back": "z",
+      "deckId": 1,
+      "id": 11
+    },
+    {
+      "front": "y",
+      "back": "y",
+      "deckId": 1,
+      "id": 12
+    },
+    {
+      "front": "j",
+      "back": "j",
+      "deckId": 1,
+      "id": 13
+    },
+    {
+      "front": "gfgfg",
+      "back": "fgfgf",
+      "deckId": 1,
+      "id": 14
+    },
+    {
+      "front": "/////",
+      "back": "/////////",
+      "deckId": 1,
+      "id": 15
+    },
+    {
+      "front": "o",
+      "back": "o",
+      "deckId": 1,
+      "id": 18
+    },
+    {
+      "front": "ui",
+      "back": "ui",
+      "deckId": 1,
+      "id": 19
+    },
+    {
+      "front": "fes",
+      "back": "sdf",
+      "deckId": 7,
+      "id": 20
+    },
+    {
+      "front": "69",
+      "back": "69",
+      "deckId": 2,
+      "id": 21
+    },
+    {
+      "front": "69696",
+      "back": "969696",
+      "deckId": 2,
+      "id": 22
+    },
+    {
+      "front": "000",
+      "back": "000",
+      "deckId": 2,
+      "id": 23
+    }
+  ]
+}
